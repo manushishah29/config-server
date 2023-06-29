@@ -1,3 +1,4 @@
-name: dev application
+service:
+  name: dev Service
 server:
   port: 8200
