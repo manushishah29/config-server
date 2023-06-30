@@ -1,3 +1,2 @@
-name: prod application
-server:
-  port: 8200
+owner:
+  name: welcome to prod application
