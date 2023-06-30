@@ -1,4 +1,2 @@
-service:
-  name: dev Service
-server:
-  port: 8200
+owner:
+  name: welcome to dev application
