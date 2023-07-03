@@ -1,2 +1,6 @@
 owner:
   name: welcome to dev application
+spring:
+  datasource:
+    username: root
+    password: password
